@@ -1,23 +1,23 @@
 State/UT,District/City/Town,Total Confirmed cases (Indian National),Total Confirmed cases (Foreign National),Total Confirmed cases (Indian & foreign National),Total Recovered,Total Active,Total Deaths
-Delhi,-,3,0,3,0,3,0
+Delhi,Others,3,0,3,0,3,0
 Delhi,West Delhi,1,0,1,0,1,0
 Delhi,Gurgaon,1,0,1,0,1,0
 Haryana,Gurgaon,0,14,14,0,14,0
 Karnataka,Bengaluru,3,0,3,0,3,0
-Karnataka,-,1,0,1,0,1,0
+Karnataka,Others,1,0,1,0,1,0
 Kerala,Pathanamthitta,11,0,11,0,11,0
 Kerala,Ernakulam,3,0,3,0,3,0
-Kerala,-,2,0,2,2,0,0
+Kerala,Others,2,0,2,2,0,0
 Kerala,Kasargoad,1,0,1,1,0,0
 Maharashtra,Pune,5,0,5,0,5,0
 Maharashtra,Mumbai,2,0,2,0,2,0
 Punjab,Hoshiarpur,1,0,1,0,1,0
-Rajasthan,Jaipur,1,1,2,0,2,0
-Rajasthan,-,1,1,2,0,2,0
+Rajasthan,Jaipur,1,2,3,0,3,0
+Rajasthan,Others,0,0,0,0,0,0
 Tamil Nadu,Tamil Nadu,1,0,1,1,0,0
 Telengana,Hyderabad,1,0,1,0,1,0
 Union Territory of Jammu and Kashmir,Jammu,1,0,1,0,1,0
 Union Territory of Ladakh,Ladakh,2,0,2,0,2,0
 Uttar Pradesh,Agra,6,0,6,0,6,0
-Uttar Pradesh,-,2,0,2,0,2,0
+Uttar Pradesh,Others,2,0,2,0,2,0
 Uttar Pradesh,Ghaziabad,1,0,1,0,1,0
