@@ -1,13 +1,15 @@
 ## Data of COVID-19 cases in India
 
-### mohfw
-contains official data from goverment of India (Ministry of Health and Family Welfare)
+### mohfw_daily
+contains official data from goverment of India (Ministry of Health and Family Welfare), updated daily.
 
-### news_reports
-contains data aggregated from various news reports
+### news_time_series
+contains data aggregated from news reports and wikipedia, in a time series fashion
+
+#### Note - The official and unofficial numbers do not match. 
 ___
-#### Looking for contributors -
+#### Looking for contributors, especially for getting the correct unofficial numbers -
+
 If any mistakes found or want to contribute, 
-- please mail to vckp@pm.me OR
 - raise new issue OR
 - raise a PR with the corrections
