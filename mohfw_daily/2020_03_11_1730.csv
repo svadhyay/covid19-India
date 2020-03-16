@@ -1,13 +1,13 @@
-State/UT,Total Confirmed cases (Indian National),Total Confirmed cases (Foreign National),Total Confirmed cases (Indian & foreign National)
-Kerala,17,0,17
-Haryana,0,14,14
-Uttar Pradesh,9,0,9
-Delhi,5,0,5
-Karnataka,4,0,4
-Rajasthan,1,2,3
-Maharashtra,2,0,2
-Union Territory of Ladakh,2,0,2
-Punjab,1,0,1
-Tamil Nadu,1,0,1
-Telengana,1,0,1
-Union Territory of Jammu and Kashmir,1,0,1
+State/UT,Total Confirmed cases (Indian National),Total Confirmed cases (Foreign National)
+Delhi,5,0
+Haryana,0,14
+Karnataka,4,0
+Kerala,17,0
+Maharashtra,2,0
+Punjab,1,0
+Rajasthan,1,2
+Tamil Nadu,1,0
+Telengana,1,0
+Union Territory of Jammu and Kashmir,1,0
+Union Territory of Ladakh,2,0
+Uttar Pradesh,9,0
