@@ -1,4 +1,4 @@
-Date,Time (IST),Total number of passengers screened at airport,Total number of confirmed COVID 2019 cases across India
+Date,Time (IST),Passengers screened at airport,Confirmed cases,Active cases,Discharged/Cured cases,Deaths
 2020-03-10,12:00:00,941717,47
 2020-03-12,18:00:00,1114025,74
 2020-03-13,10:00:00,1171061,75
@@ -9,3 +9,5 @@ Date,Time (IST),Total number of passengers screened at airport,Total number of c
 2020-03-16,16:00:00,1276046,114
 2020-03-17,09:15:00,1319263,125
 2020-03-17,11:52:00,1319263,126
+2020-03-17,17:15:00,1354858,,120,14,3
+2020-03-18,09:00:00,1354858,,130,14,3
