@@ -1,5 +1,5 @@
 State/UT,District/City/Town,1/30/2020,2/2/2020,2/3/2020,3/2/2020,3/3/2020,3/4/2020,3/5/2020,3/6/2020,3/7/2020,3/8/2020,3/9/2020,3/10/2020,3/11/2020,3/12/2020,3/13/2020,3/14/2020,3/15/2020,3/16/2020,3/17/2020,3/18/2020,3/19/2020,3/20/2020
-India,All,1,2,3,6,7,29,30,31,34,39,47,60,64,75,83,98,105,111,139,150,168,196
+India,All,1,2,3,6,7,29,30,31,34,39,47,60,64,75,83,98,105,111,139,150,168,224
 Delhi,Others,,,,1,1,2,2,2,2,2,3,3,3,3,3,3,3,3,5,7,9,14
 Delhi,West Delhi,,,,,,,,1,1,1,1,1,1,2,2,2,2,2,2,2,2,2
 Delhi,Gurgaon,,,,,,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
@@ -8,14 +8,15 @@ Karnataka,Bengaluru,,,,,,,,,,,1,4,4,5,6,6,6,7,8,9,12,13
 Karnataka,Gulbarga,,,,,,,,,,,,,,1,1,1,2,2,3,3,3,3
 Karnataka,Kodagu,,,,,,,,,,,,,,,,,,,,,1,1
 Kerala,Pathanamthitta,,,,,,,,,,5,5,11,11,11,11,11,11,11,11,11,11,11
-Kerala,Ernakulam,,,,,,,,,,,1,3,3,3,3,3,3,3,3,3,3,3
+Kerala,Ernakulam,,,,,,,,,,,1,3,3,3,3,3,3,3,3,3,3,8
 Kerala,Others,1,2,2,2,2,2,2,2,2,2,2,2,2,2,4,4,6,6,10,10,10,11
-Kerala,Kasargoad,,,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2,2,2,2,2
+Kerala,Kasargoad,,,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2,2,2,2,8
 Kerala,Malappuram,,,,,,,,,,,,,,,,,,1,1,1,1,1
-Maharashtra,Pune,,,,,,,,,,,2,5,5,8,9,14,14,14,14,15,15,15
+Kerala,Palakkad,,,,,,,,,,,,,,,,,,,,,,1
+Maharashtra,Pune,,,,,,,,,,,2,5,5,8,9,14,14,14,14,15,15,17
 Maharashtra,Yavatmal,,,,,,,,,,,,,,,,2,2,3,3,3,3,3
 Maharashtra,Nagpur,,,,,,,,,,,,,,1,3,3,3,3,3,3,3,3
-Maharashtra,Mumbai,,,,,,,,,,,,,2,2,2,3,3,7,10,10,12,12
+Maharashtra,Mumbai,,,,,,,,,,,,,2,2,2,3,3,7,10,10,12,13
 Maharashtra,Thane,,,,,,,,,,,,,,,,1,1,1,1,1,1,1
 Maharashtra,Kalyan,,,,,,,,,,,,,,,,1,1,1,1,1,1,1
 Maharashtra,Kamothe,,,,,,,,,,,,,,,,1,1,1,1,1,1,1
@@ -26,10 +27,11 @@ Maharashtra,Others,,,,,,,,,,,,,,,,,,,2,2,2,2
 Maharashtra,Ulhasnagar,,,,,,,,,,,,,,,,,,,,,1,1
 Punjab,Hoshiarpur,,,,,,,,,,,1,1,1,1,1,1,1,1,1,1,1,1
 Punjab,Mohali,,,,,,,,,,,,,,,,,,,,,,1
-Rajasthan,Jaipur,,,,1,2,2,2,2,2,2,2,2,3,3,3,4,4,4,4,4,4,4
+Rajasthan,Jaipur,,,,1,2,2,2,2,2,2,2,2,3,3,3,4,4,4,4,4,4,5
 Rajasthan,Jhunjunu,,,,,,,,,,,,,,,,,,,,3,3,3
+Rajasthan,Bhilwara,,,,,,,,,,,,,,,,,,,,,,9
 Tamil Nadu,Others,,,,,,,,,1,1,1,1,1,1,1,1,1,1,1,2,3,4
-Telengana,Hyderabad,,,,1,1,1,1,1,1,1,1,1,1,1,1,2,3,4,5,6,6,16
+Telengana,Hyderabad,,,,1,1,1,1,1,1,1,1,1,1,1,1,2,3,4,5,6,6,17
 Union Territory of Jammu and Kashmir,Jammu,,,,,,,,,,,1,1,1,1,1,1,1,1,3,3,4,4
 Union Territory of Ladakh,Others,,,,,,,,,2,2,2,2,2,3,3,3,3,3,3,3,3,5
 Union Territory of Ladakh,Leh,,,,,,,,,,,,,,,,,,,2,2,2,2
@@ -44,7 +46,8 @@ Andra Pradesh,Nellore,,,,,,,,,,,,,,1,1,1,1,1,1,1,1,1
 Uttarakhand,Others,,,,,,,,,,,,,,,,,1,1,1,1,1,1
 Odisha,Bhubaneshwar,,,,,,,,,,,,,,,,,,1,1,1,1,1
 Union Territory of Puducherry,Puducherry,,,,,,,,,,,,,,,,,,,1,1,1,1
-West Bengal,West Bengal,,,,,,,,,,,,,,,,,,,1,1,1,1
+West Bengal,West Bengal,,,,,,,,,,,,,,,,,,,1,1,1,2
 Chattisgarh,Chattisgarh,,,,,,,,,,,,,,,,,,,,,1,1
 Gujrat,Surat,,,,,,,,,,,,,,,,,,,,,,1
 Gujrat,Rajkot,,,,,,,,,,,,,,,,,,,,,,1
+Himachal Pradesh,Kangra,,,,,,,,,,,,,,,,,,,,,,1
