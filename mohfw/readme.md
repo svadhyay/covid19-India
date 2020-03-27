@@ -7,3 +7,4 @@
 - 2020-03-23 summary data on wesbite says "Total number of confirmed cases so far in the country as on 23 March 2020 at 10.30 AM including foreign nationals = 415 (State and District wise details awaited)"
 - 2020-03-25 morning data had total death count reduced from 10 to 9, citing "#2nd Death Reported in Delhi is Covid-19 Negative"
 - 2020-03-26 10:15 am data has a note is statewise confirmed cases (602#) as "# Few of the new cases have been reassigned States as per latest information"
+- 2020-03-28 morning - state wise table on MOHFW website was not present.
