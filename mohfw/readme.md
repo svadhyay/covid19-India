@@ -8,3 +8,4 @@
 - 2020-03-25 morning data had total death count reduced from 10 to 9, citing "#2nd Death Reported in Delhi is Covid-19 Negative"
 - 2020-03-26 10:15 am data has a note is statewise confirmed cases (602#) as "# Few of the new cases have been reassigned States as per latest information"
 - 2020-03-28 morning - state wise table on MOHFW website was not present.
+- 2020-03-29 evening onwards, statewise table has combined "Indian national & Foreigner confirmed cases" together, thus removing the dedicated column for confirmed cases of foreigners.
