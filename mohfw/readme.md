@@ -9,3 +9,4 @@
 - 2020-03-26 10:15 am data has a note is statewise confirmed cases (602#) as "# Few of the new cases have been reassigned States as per latest information"
 - 2020-03-28 morning - state wise table on MOHFW website was not present.
 - 2020-03-29 evening onwards, statewise table has combined "Indian national & Foreigner confirmed cases" together, thus removing the dedicated column for confirmed cases of foreigners.
+- 2020-03-30 9:30 pm data - total of confirmed cases= 1205 does not match MOHFW mentioned 1251 cases. MOHFW mentions a note saying - "Remaining 46 cases are being assigned to states to initiate contact tracing"
