@@ -3,8 +3,8 @@
 ### mohfw
 contains official data from the Government of India (Ministry of Health and Family Welfare), updated daily.
 
-### news_time_series
-contains unofficial data aggregated from news reports and wikipedia, in a time series fashion, updated daily. 
+### news_time_series **[No longer being updated]**
+contains city-wise unofficial data aggregated from news reports and wikipedia, in a time series fashion, updated daily. 
 
 #### **Note** - The official and unofficial numbers do not match. 
 ______
