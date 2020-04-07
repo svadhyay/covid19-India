@@ -17,3 +17,4 @@
 - 2020-03-30 9:30 pm data - total of confirmed cases= 1205 does not match MOHFW mentioned 1251 cases. MOHFW mentions a note saying - *"Remaining 46 cases are being assigned to states to initiate contact tracing"*
 - 2020-04-03 9:00 am data - total of confirmed cases (statewise) does not match MOHFW mentioned total cases. MOHFW mentions a note saying - *"Remaining 18 cases are being assigned to states for contact tracing"*
 - Sometimes statewise data carried a disclaimer for the total confirmed cases as *"States wise distribution is subject to further verification and reconciliation"*
+- 2020-04-15 *Nagaland patient shifted to Assam*
