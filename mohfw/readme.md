@@ -18,3 +18,4 @@
 - 2020-04-03 9:00 am data - total of confirmed cases (statewise) does not match MOHFW mentioned total cases. MOHFW mentions a note saying - *"Remaining 18 cases are being assigned to states for contact tracing"*
 - Sometimes statewise data carried a disclaimer for the total confirmed cases as *"States wise distribution is subject to further verification and reconciliation"*
 - 2020-04-15 *Nagaland patient shifted to Assam*
+- 2020-04-22 *One case of Jharkhand reassigned to Bihar after reconciliation*
