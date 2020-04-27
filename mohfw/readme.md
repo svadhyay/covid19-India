@@ -20,3 +20,4 @@
 - 2020-04-15 "*Nagaland patient shifted to Assam*"
 - 2020-04-22 "*One case of Jharkhand reassigned to Bihar after reconciliation*"
 - 2020-04-25 "*49 cases are being assigned to states for contact tracing*" - Reason given for mismatch between "total of confirmed cases in India" vs the manually calculated total of the same table.
+- 2020-04-26 "*312 cases are being assigned to states for contact tracing*" - Reason given for mismatch between "total of confirmed cases in India" vs the manually calculated total of the same table.
