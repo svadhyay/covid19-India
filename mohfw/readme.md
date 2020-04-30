@@ -7,6 +7,7 @@
 - ICMR website not showing any stats from 2020-03-28 onwards. In this case, some of the data is obtained from information shared in MOHFW press conferences/releases and other official sources.
 - 2020-04-20 evening - ICMR website is showing stats data, but only cumulative confirmed positive individuals and daily tested samples.
 - 2020-04-26 onwards - only "number of tested samples" count is being released
+- 2020-04-29 onwards - ICMR wesbite format updated. Home page now directly displays all COVID19 related info.
 
 #### MOHFW
 - For the 2020-03-22 evening data, MOHFW summary numbers did not contain the time at which the data was frozen. In this case time from the "Statewise Status" was used for the summary data as well.
@@ -22,3 +23,5 @@
 - 2020-04-22 "*One case of Jharkhand reassigned to Bihar after reconciliation*"
 - 2020-04-25 "*49 cases are being assigned to states for contact tracing*" - Reason given for mismatch between "total of confirmed cases in India" vs the manually calculated total of the same table.
 - 2020-04-26 "*312 cases are being assigned to states for contact tracing*" - Reason given for mismatch between "total of confirmed cases in India" vs the manually calculated total of the same table.
+- 2020-04-29 "*78 cases are being assigned to states for contact tracing*".
+- 2020-04-29 "*1 Repeat case from Betul(Madhya Pradesh) Removed*". This reduces the death count in MP by 1.
