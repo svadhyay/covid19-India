@@ -25,3 +25,4 @@
 - 2020-04-26 "*312 cases are being assigned to states for contact tracing*" - Reason given for mismatch between "total of confirmed cases in India" vs the manually calculated total of the same table.
 - 2020-04-29 "*78 cases are being assigned to states for contact tracing*".
 - 2020-04-29 "*1 Repeat case from Betul(Madhya Pradesh) Removed*". This reduces the death count in MP by 1.
+- 2020-05-05 "*From 06.05.2020, the case status will be updated on the website only once a day in the morning instead of twice a day, as being done presently. All concerned may please note.*"
