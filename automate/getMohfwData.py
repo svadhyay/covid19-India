@@ -33,6 +33,7 @@ if True:
     if True:
         with open('mohfwdata.csv','w',newline='') as f:
             writer = csv.writer(f)
+            #writer = csv.writer(f,dialect='unix')
             writer.writerow(headers)
             writer.writerows(row for row in rows if row)
 
