@@ -44,7 +44,7 @@ if True:
                     for line in inf:
                         fixed.write(line)
 
-    if True:
+    if False:
         print(" ************ print the csv *********** ")
         with open('mohfwdata.csv', newline='') as f:
             reader = csv.reader(f)
