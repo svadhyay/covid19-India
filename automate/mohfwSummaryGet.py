@@ -15,8 +15,16 @@ print("############# type of soup is = ", type(soup))
 if True:
     print("******* stats count div *********** ")
     siteStatsData = soup.find('div', class_='site-stats-count')
-    print(siteStatsData)
+    #print(siteStatsData)
     print("############# type of siteStatsData is = ", type(siteStatsData))
+    timeStamp = siteStatsData.find('div', class_='status-update')
+    timeStamp = timeStamp.find('span')
+    timeStamp = timeStamp.text
+    print("timestamp text is --->",timeStamp,"<---")
+    print("############# type of timeStamp is = ", type(timeStamp))
+    hhmmStr = timeStamp[22:26]
+    print("hhmm = ", hhmmStr)
+#    as on : 14 May 2020, 08:00 IST (GMT+5:30)
 
 #<div class="site-stats-count">
 #                <ul>
